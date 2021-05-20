@@ -1,0 +1,56 @@
+body
+{
+	background-image: url("50-509509_informaes-subsidiaro-atuao-dos-promotores-de-justia-school.jpg") ;
+}
+h1{color: #f00;font-family: 'Comic Sans MS' ; padding-left:  505pt ; padding-top:  85pt ; font-size:  50pt }
+h2{color: #000066}
+p,li{font-family: 'Segoe UT'; font-size:  14pt;}
+th{color: white }
+table{background-color: black }
+
+input
+{  color: red;
+    height:43px;
+    width: 50px;
+    font-size:30pt;
+    border-radius: 15pt;
+
+    border: 5px solid white;
+	
+}
+.prim {
+	font-float: center;
+		border: 5px solid white;
+	border-radius: 20pt;
+		width: 420px;
+		height: 60px;
+		margin-left: 330pt;
+		margin-top: 100pt;
+	color: white ;
+	font-family: Arial;
+	font-size: 30pt;
+	
+}
+
+.hist {
+	border: 5px solid white;
+	border-radius: 20pt;
+	overflow-x:hidden;
+	overflow-y:auto;
+		height: 220px;
+		width: 580px;
+		margin-left: 300pt;
+		margin-top: 50pt;
+	color: white ;
+	font-family: Arial;
+	font-size: 20pt;
+	white-space:pre-wrap;	
+}
+.sidebar{
+
+	height: 520px;
+		width: 480px;
+		float: right;
+		margin: 60pt;
+}
+input[type="text"]:focus,input[type="password"]:focus{background:#6B8E23!important;color: white!important}
